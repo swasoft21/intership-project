@@ -1,0 +1,5 @@
+.custom-placeholder::placeholder {
+    /* Your placeholder styles here */
+    color: #a0aec0; /* Example color */
+    font-style: italic; /* Example italic style */
+  }
